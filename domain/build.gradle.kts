@@ -1,5 +1,4 @@
 description = "domain"
 
 dependencies {
-
 }
